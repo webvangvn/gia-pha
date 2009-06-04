@@ -1,0 +1,14 @@
+E:\0612488\0612488\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\0612488\0612488\DAO\obj\Release\ResolveAssemblyReference.cache
+E:\0612488\0612488\DAO\bin\Debug\DAO.dll
+E:\0612488\0612488\DAO\bin\Debug\DAO.pdb
+E:\0612488\0612488\DAO\bin\Debug\DTO.dll
+E:\0612488\0612488\DAO\bin\Debug\DTO.pdb
+E:\0612488\0612488\DAO\obj\Debug\DAO.dll
+E:\0612488\0612488\DAO\obj\Debug\DAO.pdb
+E:\0612488\0612488\DAO\bin\Release\DAO.dll
+E:\0612488\0612488\DAO\bin\Release\DAO.pdb
+E:\0612488\0612488\DAO\bin\Release\DTO.dll
+E:\0612488\0612488\DAO\bin\Release\DTO.pdb
+E:\0612488\0612488\DAO\obj\Release\DAO.dll
+E:\0612488\0612488\DAO\obj\Release\DAO.pdb

@@ -1,0 +1,10 @@
+E:\0612488\0612488\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\0612488\0612488\DTO\bin\Debug\DTO.dll
+E:\0612488\0612488\DTO\bin\Debug\DTO.pdb
+E:\0612488\0612488\DTO\obj\Debug\DTO.dll
+E:\0612488\0612488\DTO\obj\Debug\DTO.pdb
+E:\0612488\0612488\DTO\bin\Release\DTO.dll
+E:\0612488\0612488\DTO\bin\Release\DTO.pdb
+E:\0612488\0612488\DTO\obj\Release\ResolveAssemblyReference.cache
+E:\0612488\0612488\DTO\obj\Release\DTO.dll
+E:\0612488\0612488\DTO\obj\Release\DTO.pdb
